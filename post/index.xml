@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://marifontenele.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://marifontenele.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon rainforest</title>
+      <link>https://marifontenele.github.io/portfolio/post/project-1/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marifontenele.github.io/portfolio/post/project-1/</guid>
+      <description>Read it on medium
+See full project in GitHub&amp;rsquo;s repository
+Deforestation data
+The data examined in this study is from Terrabrasilis — Plataforma de dados geográficos — INPE. It is the Brazilian government organization that supervise the Amazon rainforest area. Here, the focus is going to be on deforestation data throughout the years 2008 to 2019
+Counties: the ground for analysis
+The first step is to situate the geospacial deforestation data into the basis for our analysis: Legal Amazon counties.</description>
+    </item>
+    
+    <item>
+      <title>Client churn prediction</title>
+      <link>https://marifontenele.github.io/portfolio/post/project-2/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marifontenele.github.io/portfolio/post/project-2/</guid>
+      <description>See full project in GitHub&amp;rsquo;s repository
+ Disclaimer: this is a fictional business case
+ The company is a bank that operates primarily in Europe. Their main product is a bank account. Owning this account doesn&amp;rsquo;t have any cost in the first 12 months
+However, the client needs to rehire the bank for the upcoming 12 months after the free trial expires as well as everytime this new 12 months hired also expires</description>
+    </item>
+    
+  </channel>
+</rss>
